@@ -2,3 +2,7 @@
   margin: 0 auto;
   max-width: 100vh;
 }
+body {
+  display: flex;
+  justify-content: center;
+}
